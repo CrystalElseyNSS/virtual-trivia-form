@@ -9,9 +9,9 @@ Used ReactJS to build a form where data coordinators could enter exhibitors' qui
 
 > Test it out live at https://booth-quiz-form.web.app/   
 > View your new quiz at https://sw-booth-trivia.web.app/ + {Exhibitor Attendee Id}   
-
+   
 ![](https://eventfinity-production-assets.s3.amazonaws.com/materials/1214031/original/boothform.png)
-
+   
 
 ## Languages & Technologies
 
